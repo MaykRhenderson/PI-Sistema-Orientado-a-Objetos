@@ -8,7 +8,7 @@ Este projeto consiste na modelagem de um sistema orientado a objetos para a gest
 
 - [**Igor Araujo**](https://github.com/SouIgor)
 - **Ana Carolina Gomes Mota Freitas**
-- **Gustavo Da Silva Gomes** ( https://github.com/GustaGomes )
+- [**Gustavo Da Silva Gomes**]( https://github.com/GustaGomes )
 - **Mayk Rhenderson**
 - [**Thalisson Souza**](https://github.com/thalissonsouzas)
 
