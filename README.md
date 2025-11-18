@@ -7,9 +7,9 @@ Este projeto consiste na modelagem de um sistema orientado a objetos para a gest
 ## 👥 Equipe
 
 - [**Igor Araujo**](https://github.com/SouIgor)
-- **Ana Carolina Gomes Mota Freitas**
-- [**Gustavo Da Silva Gomes**]( https://github.com/GustaGomes )
-- **Mayk Rhenderson**
+- [**Ana Carolina Gomes Mota Freitas**](https://github.com/acarolismota-lab)
+- [**Gustavo Da Silva Gomes**](https://github.com/GustaGomes)
+- [**Mayk Rhenderson**](https://github.com/MaykRhenderson)
 - [**Thalisson Souza**](https://github.com/thalissonsouzas)
 
 **Professor:** Julio Cesar Severino
