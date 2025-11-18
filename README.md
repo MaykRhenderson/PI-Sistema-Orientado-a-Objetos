@@ -81,7 +81,7 @@ Principais classes modeladas:
 
 O protótipo visual do sistema foi desenvolvido no Figma para representar a interface e fluxo das principais funcionalidades do projeto.
 
-🔗 [Acesse o protótipo no Figma]([https://www.figma.com/design/ajJ7ENKQCiGk9fWcWBiBsB/PI---Senac?node-id=18-7579&t=ZuqoQxUh6UGkCxrx-0](https://www.figma.com/proto/ajJ7ENKQCiGk9fWcWBiBsB/PI---Senac?node-id=13-3419&p=f&t=eKF29dzKjzLw1Eq9-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=13%3A3419))
+🔗 [Acesse o protótipo no Figma](https://www.figma.com/proto/ajJ7ENKQCiGk9fWcWBiBsB/PI---Senac?node-id=13-3419&p=f&t=eKF29dzKjzLw1Eq9-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=13%3A3419)
 
 📁 O arquivo também está disponível no diretório `prototipo-figma` na raiz do projeto.
 
