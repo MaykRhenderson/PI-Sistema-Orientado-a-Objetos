@@ -4,7 +4,7 @@
 Este projeto consiste na modelagem de um sistema orientado a objetos para a gestão de dados de uma grande universidade. Desenvolvido como parte do Projeto Integrador do curso de **Análise e Desenvolvimento de Sistemas (ADS)** do **SENAC EAD**, no 3º semestre de 2025.
 
 ## 👥 Equipe
-- **Igor Araujo Ferreira**
+- [**Igor Araujo**](https://github.com/SouIgor)
 - **Ana Carolina Gomes Mota Freitas**
 - **Gustavo Da Silva Gomes**
 - **Mayk Rhenderson**
