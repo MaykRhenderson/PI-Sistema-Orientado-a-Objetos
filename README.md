@@ -68,8 +68,9 @@ Principais classes modeladas:
 
 O protótipo visual do sistema foi desenvolvido no Figma para representar a interface e fluxo das principais funcionalidades do projeto.
 
-🔗 Acesse o protótipo:
-https://www.figma.com/design/ajJ7ENKQCiGk9fWcWBiBsB/PI---Senac?node-id=18-7579&t=ZuqoQxUh6UGkCxrx-0
+🔗 [Acesse o protótipo no Figma](https://www.figma.com/design/ajJ7ENKQCiGk9fWcWBiBsB/PI---Senac?node-id=18-7579&t=ZuqoQxUh6UGkCxrx-0)
+
+📁 O arquivo também está disponível no diretório `prototipo-figma` na raiz do projeto.
 
 ## 📚 Referências
 - [Alura: Conceitos de POO](https://www.alura.com.br/artigos/poo-programacao-orientada-a-objetos)
