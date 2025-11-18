@@ -8,7 +8,7 @@ Este projeto consiste na modelagem de um sistema orientado a objetos para a gest
 - **Ana Carolina Gomes Mota Freitas**
 - **Gustavo Da Silva Gomes**
 - **Mayk Rhenderson**
-- **Thalisson Souza Santos**
+- [**Thalisson Souza**](https://github.com/thalissonsouzas)
 
 **Professor:** Julio Cesar Severino
 
